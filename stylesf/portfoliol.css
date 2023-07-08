@@ -12,6 +12,7 @@ nav{
    display: flex;
    align-items: center;
    justify-content: space-between;
+   margin: 0px 200px;
 }
 .webowner{
     color: black;
@@ -39,3 +40,17 @@ nav a{
     font-weight: 700;
    padding: 12px 16px;
 }
+/* header part dec  */
+.headerdec{
+    background-color: #fff8f3;
+}
+/* mid part  */
+.banner{
+    padding: 30px 30px 30px 150px;
+    display: flex;
+    align-items: center;
+}
+.banner .propic{
+    width: 400px;
+}
+ 
