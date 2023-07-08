@@ -1,0 +1,41 @@
+/* google font  */
+body{
+    font-family: 'Cookie', cursive;
+font-family: 'Open Sans', sans-serif;
+}
+/* name color  */
+.difclr{
+    color: orangered;
+}
+/* navigation part  */
+nav{
+   display: flex;
+   align-items: center;
+   justify-content: space-between;
+}
+.webowner{
+    color: black;
+    font-size: 45px;
+    font-weight: 800;
+}
+nav > ul{
+    display: flex;
+    align-items: center;
+}
+nav li{
+    list-style: none;
+    margin-right: 50px;
+    
+}
+nav a{
+    text-decoration: none;
+    color: #474747;
+}
+.btndec{
+    border-radius: 5px;
+   background-color: rgba(255, 68, 0, 0.877);
+   font-style: italic;
+    font-size: 13px;
+    font-weight: 700;
+   padding: 12px 16px;
+}
