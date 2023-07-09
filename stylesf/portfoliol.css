@@ -86,4 +86,14 @@ nav a{
     background: #FFF8F3;
     margin: 110px 0px;
  }
- 
+ main{
+    max-width: 1140px;
+    margin: 0px auto;
+ }
+ .abinfo-cont{
+    display: flex;
+    justify-content: space-around;
+ }
+ .aboutinfo{
+    text-align: center;
+ }
