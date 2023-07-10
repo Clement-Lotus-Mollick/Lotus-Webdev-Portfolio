@@ -1,7 +1,7 @@
 /* google font  */
 body{
-    font-family: 'Cookie', cursive;
-font-family: 'Open Sans', sans-serif;
+    /* font-family: 'Cookie', cursive;
+font-family: 'Open Sans', sans-serif; */
 }
 /* name color  */
 .difclr{
@@ -53,6 +53,9 @@ nav a{
     
     justify-content: space-between; 
 }
+.bnnrp{
+    color: #757575;
+}
 .bannercnt{
     width: 500px;
 }
@@ -78,7 +81,7 @@ nav a{
  .aboutdes{
     text-align: center;
     font-size: 18px;
-    color: #474747;
+    color: #757575;
  }
  .about{
     padding: 130px;
@@ -97,3 +100,44 @@ nav a{
  .aboutinfo{
     text-align: center;
  }
+
+ /* what i do style  */
+  .dodes{
+   text-align: center;
+   padding: 30px 150px;
+   color: #757575;
+  }
+  .dottl{
+text-align: center;
+font-size: 35px;
+font-style: normal;
+font-weight: 600;
+margin-bottom: 5px;
+  }
+
+  /* skills  */
+
+  .skillscnt{
+    display: flex;
+    padding: 33px;
+    gap: 24px;
+  }
+  .skilldiv{
+    border-radius: 5px;
+    background: #FFF;
+    box-shadow: 0px 6px 50px 0px rgba(64, 79, 192, 0.195);
+  }
+  .skill-description{
+    color: #757575;
+  }
+
+  /* resume style  */
+  .rct{
+    color: #474747;
+font-family: Open Sans;
+font-size: 15px;
+font-style: normal;
+font-weight: 700;
+ 
+  }
+  
