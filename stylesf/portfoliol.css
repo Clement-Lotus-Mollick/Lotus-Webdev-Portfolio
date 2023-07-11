@@ -44,6 +44,15 @@ nav a{
 /* header part dec  */
 .headerdec{
     background-color: #fff8f3;
+    background-image: url('../image/developer.png');
+    background-repeat: no-repeat;
+    background-position: top left;
+     background-size: 70px;
+     margin-left: 10px;
+     margin-right: 0px;
+     
+/* height: 800px; */
+
 }
 /* mid part  */
 .banner{
