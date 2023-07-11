@@ -200,4 +200,77 @@ border-radius: 4px;
         text-align: center;
         margin-top: 15px;
     }
+
+    /* footer style  */
   
+    .lastpart{
+        display: flex;
+        background-color:#fff8f3 ;
+        padding: 130px 200px;
+        margin-top: 49px;
+        gap: 44px; 
+    }
+    .fterttl{
+        color: #181818;
+ 
+font-family: Open Sans;
+font-size: 28px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+    }
+    .fterdes{
+        color: #474747;
+font-family: Open Sans;
+font-size: 11px;
+font-style: normal;
+font-weight: 400;
+line-height: 28px;
+    }
+    .fb{
+        display: flex;
+        width: 19px;
+height: 19px;
+ 
+    }
+    .img{
+        padding: 13px;
+    }
+    .ftclm{
+        width: 50%;
+         
+    }
+    
+.sub{
+    border-radius: 5px;
+    background: orangered;
+
+    color:#FFF;
+
+font-family: Open Sans;
+font-size: 15px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+
+width: 100px;
+height: 38px;
+
+border: 2px solid black;
+border-radius: 4px;
+}
+
+.hwl{
+    width: 461px;
+height: 64px;
+border-radius: 5px;
+background:  #FFF;
+
+}
+.formlast input, textarea{
+    border: 0;
+    padding: 14px;
+}
+
+
+/* its over    */
