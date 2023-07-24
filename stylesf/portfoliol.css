@@ -283,3 +283,54 @@ background:  #FFF;
 
 
 /* its over    */
+
+
+/* responsive style  */
+@media screen and (max-width: 576px) {
+    .skillscnt, .resumecnt, .lastpart{
+        display: flex;
+       flex-direction: column;
+    }
+    .lastpart{
+        padding: 10px;
+    }
+    .dodes{
+        padding: 20px;
+    }
+
+    .about{
+        padding: 10px;
+    }
+
+    .abinfo-cont{
+        display: flex;
+        flex-direction: column;
+    }
+
+    .banner{
+        flex-direction: column;
+    }
+
+    .our-nav{   /* have to add the class*/
+        display: flex;
+        flex-direction: column;
+    }
+    .bannercnt{
+        width: 200px;
+    }
+    .banner .propic{
+        width: 300px;
+    }
+    .headerdec {
+        margin-left: 0px;
+    }
+    .hwl{
+        width: 240px;
+        height: 64px;
+    }
+
+    .btndec{
+        margin-bottom: 5px;
+    }
+   
+}
